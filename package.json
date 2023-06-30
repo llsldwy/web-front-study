@@ -1,0 +1,14 @@
+{
+  "name": "front-question",
+  "version": "1.0.0",
+  "description": "前端面试题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "前端、面试"
+  ],
+  "author": "lilin",
+  "license": "ISC"
+}
